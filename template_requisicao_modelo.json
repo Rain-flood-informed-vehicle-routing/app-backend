@@ -1,0 +1,28 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "horario_saida": "2023-09-08T12:00:00Z"
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-50.4501, -30.8797]
+            },
+            "properties": {
+                "name": "Ponto A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-50.4801, -30.8997]
+            },
+            "properties": {
+                "name": "Ponto B"
+            }
+        }
+    ]
+}
